@@ -1,0 +1,29 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FleeN1/node-js-hw01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FleeN1/node-js-hw01/issues"
+  },
+  "homepage": "https://github.com/FleeN1/node-js-hw01",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bson-objectid": "^2.0.4",
+    "commander": "^9.4.1"
+  }
+}
